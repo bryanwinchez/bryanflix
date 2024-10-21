@@ -40,7 +40,7 @@ p {
 }
 .categoria-videos img {
 opacity: 0.4;
-height: 300px;
+height: 200px;
 }
 .categoria-videos img:hover {
 opacity: 1.0;
